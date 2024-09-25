@@ -1,0 +1,23 @@
+div.main {
+    margin: 16px;
+    padding: 16px;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    border-radius: 8px;
+}
+
+canvas {
+    border-radius: 8px;
+}
+
+div.buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    margin: 10px;
+}
